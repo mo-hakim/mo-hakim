@@ -3,7 +3,7 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
  - [Created web server on AWS EC2 using Terraform](https://github.com/mo-hakim/AWS-EC2-web-server-using-Terraform-)
- - [Added an application load balancer to AWS EC2 using Terraform](https://github.com/mo-hakim/AWS-EC2-web-server-using-Terraform-)
+ - [Added an application load balancer to AWS EC2 using Terraform](https://github.com/mo-hakim/Add-an-application-load-balancer-to-AWS-EC2-using-Terraform)
  - [Containerised RabbitMQ & Python chatbot](https://github.com/mo-hakim/rabbitmq-dockerization)
 
 <h2>🧾Certifications</h2>
