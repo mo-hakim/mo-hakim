@@ -4,8 +4,9 @@
 
  - [Created web server on AWS EC2 using Terraform](https://github.com/mo-hakim/AWS-EC2-web-server-using-Terraform-)
  - [Added an application load balancer to AWS EC2 using Terraform](https://github.com/mo-hakim/Add-an-application-load-balancer-to-AWS-EC2-using-Terraform)
+ - [Pushed docker images to Amazon ECR using YAML based Azure pipelines](https://github.com/mo-hakim/Amazon-ECR-using-YAML-based-Azure-pipelines)
  - [Containerised RabbitMQ & Python chatbot](https://github.com/mo-hakim/rabbitmq-dockerization)
-
+ 
 <h2>🧾Certifications</h2>
 
 - [AWS Certifed Cloud Practioner](https://www.credly.com/badges/dcd125f9-3cc9-4ff9-8c85-6d2279d57314/linked_in_profile)
